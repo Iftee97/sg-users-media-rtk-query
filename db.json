@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "name": "Miss Dianna Farrell",
+      "id": 5
+    },
+    {
+      "name": "Bernard Grant",
+      "id": 6
+    },
+    {
+      "name": "Johnathan McKenzie",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Sleek Metal Salad",
+      "id": 1
+    },
+    {
+      "userId": 6,
+      "title": "Sleek Rubber Keyboard",
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "title": "Recycled Rubber Towels",
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "title": "Oriental Soft Gloves",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "title": "Bespoke Frozen Car",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Bespoke Steel Soap",
+      "id": 17
+    },
+    {
+      "userId": 7,
+      "title": "Modern Fresh Sausages",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1855231285526528",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1740802495610880",
+      "id": 2
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=880658943574016",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6054738539839488",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1169424520314880",
+      "id": 5
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1438014779686912",
+      "id": 6
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7244200307326976",
+      "id": 7
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8456106202365952",
+      "id": 8
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3470806405349376",
+      "id": 9
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4630374407733248",
+      "id": 10
+    }
+  ]
+}
